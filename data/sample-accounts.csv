@@ -1,0 +1,21 @@
+account_name,industry,account_manager,mrr_inr,days_since_last_contact,days_to_renewal,usage_change_pct,payment_delay_days,open_tickets,nps,services_used,services_available
+Kesar Kitchen,Restaurant,Priya,45000,6,210,18,0,0,9,3,4
+Sahyadri Physio Care,Healthcare,Rohan,32000,12,45,4,0,1,8,2,4
+UrbanFold Laundry,Home Services,Priya,28000,41,30,-22,12,3,5,1,4
+Tandoor Trail,Restaurant,Aman,38000,9,150,9,0,0,10,4,4
+BrightPath Diagnostics,Healthcare,Rohan,65000,18,90,-5,3,2,7,3,4
+Monsoon Cafe,Restaurant,Aman,22000,72,25,-41,35,5,3,1,4
+Nirmal Dental Studio,Healthcare,Priya,30000,5,300,25,0,0,9,2,4
+Velocity Fitness Club,Fitness,Rohan,40000,27,60,-12,8,2,6,2,4
+Saffron Thali House,Restaurant,Aman,26000,14,120,6,0,1,8,3,4
+CloudNest Coworking,Real Estate,Priya,55000,33,180,-8,0,4,6,2,4
+GreenLeaf Organics,Retail,Rohan,18000,95,15,-55,45,6,2,1,4
+Pune Paws Vet Clinic,Healthcare,Aman,24000,8,240,12,0,0,9,2,4
+Crust & Co Pizzeria,Restaurant,Priya,34000,21,40,-15,5,2,6,2,4
+SkillForge Academy,Education,Rohan,48000,11,200,30,0,1,8,1,4
+Lotus Wellness Spa,Wellness,Aman,36000,52,75,-28,15,3,4,2,4
+Metro Mobile Repairs,Retail,Priya,15000,16,110,2,0,0,7,1,4
+Aurum Jewellers,Retail,Rohan,70000,7,330,14,0,1,9,4,4
+FreshBake Bakery,Restaurant,Aman,20000,38,55,-18,10,2,5,2,4
+Horizon Realty,Real Estate,Priya,60000,24,95,-3,2,1,7,3,4
+Zen Yoga Studio,Wellness,Rohan,16000,10,160,22,0,0,10,1,4
